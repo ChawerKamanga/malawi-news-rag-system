@@ -1,5 +1,5 @@
 ## RAG System for Personalized Malawi News
-This project uses this awesome combo of BeautifulSoup, LLM (gpt-3-turbo + Langchain) to make a really smart chat interface. It uses Retrieval Augmented Generation (RAG) to give the AI chat access to the latest news from local Malawian news sources. This way, it can answer questions and give insights based on the most up-to-date information, instead of just what it was trained on. It's a really effective way to create an AI chat that's informed and dynamic, and it shows how RAG can be used to make AI even smarter!
+This project leverages a fantastic mix of BeautifulSoup, LLM (gpt-3-turbo + Langchain) to create an intelligent chat interface. It employs the Retrieval Augmented Generation (RAG) method, enabling the AI chat to access the most recent news from local Malawian sources. As a result, it can respond to queries and provide insights using the latest available information, rather than solely relying on its training data. This approach effectively creates a dynamic and well-informed AI chat, showcasing the potential of RAG in enhancing AI capabilities.
 
 #### What you'll need 
 - Python3
